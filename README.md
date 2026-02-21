@@ -2,7 +2,7 @@
 
 > A curated list of resources for **Agentic Engineering**: the software development discipline where AI agents are orchestrated to autonomously plan, write, test, and evolve software based on human-defined goals and constraints.
 
-Focused on **practical adoption** for team leads bringing agentic practices to their engineering teams.
+Focused on **practical adoption** for engineering teams adopting Agentic Engineering.
 
 ---
 
@@ -12,8 +12,9 @@ Focused on **practical adoption** for team leads bringing agentic practices to t
 - [Team Adoption](#team-adoption)
 - [Code-Focused Agent Tools](#code-focused-agent-tools)
 - [Talks & Conferences](#talks--conferences)
-- [Case Studies](#case-studies)
-
+- [Case Studies and Practical Advice](#case-studies-and-practical-advice)
+- [Standards](#standards)
+- [Contributing](#contributing)
 ---
 
 ## What Is Agentic Engineering?
@@ -56,19 +57,19 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 - [Agentic Coding: The Future of Software Development with Agents — Armin Ronacher](https://www.youtube.com/watch?v=nfOVgz_omlU) — 37-minute talk by the creator of Flask and Sentry on adopting Claude Code and agentic workflows in practice; packed with concrete tips teams can apply immediately.
 
-## Case Studies
+
+## Case Studies and Practical advice
 
 > Real teams, real outcomes — learn from those ahead of you.
 
-[**My LLM Coding Workflow Going into 2026** — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e). A practical guide to AI-assisted engineering that emphasizes specs-first planning, small iterations, strong context and model selection.
-
+- [My LLM Coding Workflow Going into 2026 — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e). A practical guide to AI-assisted engineering that emphasizes specs-first planning, small iterations, strong context and model selection.
+- [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built). A deep dive into Claude Code's origins, architecture, and what it signals for AI-assisted software development.
+- [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/). OpenAI's practical guide to structuring and scaling engineering teams around AI-first workflows with Codex.
 
 ## Standards
 
-[agents.md](https://agents.md/) — An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
-
-
-[MCP — Model Context Protocol](https://modelcontextprotocol.io/) — An open standard for connecting AI models to external tools, data sources, and services. 
+* [agents.md](https://agents.md/) — An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
+* [MCP — Model Context Protocol](https://modelcontextprotocol.io/) — An open standard for connecting AI models to external tools, data sources, and services. 
 
 ---
 
