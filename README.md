@@ -2,7 +2,7 @@
 
 > A curated list of resources for **Agentic Engineering**: the software development discipline where AI agents are orchestrated to autonomously plan, write, test, and evolve software based on human-defined goals and constraints.
 
-Focused on **practical adoption** for team leads bringing agentic practices to their engineering teams.
+Focused on **practical adoption** for engineering teams adopting Agentic Engineering.
 
 ---
 
