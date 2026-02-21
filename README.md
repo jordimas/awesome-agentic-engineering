@@ -8,10 +8,6 @@ Focused on **practical adoption** for team leads bringing agentic practices to t
 
 ## Contents
 
-## Contents
-
-## Contents
-
 - [What Is Agentic Engineering?](#what-is-agentic-engineering)
 - [Team Adoption](#team-adoption)
 - [Code-Focused Agent Tools](#code-focused-agent-tools)
