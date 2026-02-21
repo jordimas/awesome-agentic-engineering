@@ -25,9 +25,9 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 ## Team Adoption
 
-> Practical guidance for engineering managers and team leads.
+> Practical guidance for engineering teams.
 
-- [Claude Code Quickstart](https://docs.anthropic.com/en/docs/claude-code/quickstart) — Anthropic's official guide to getting started with an agentic coding CLI.
+- [Claude Code Documentation](https://code.claude.com/docs/) - Official documentation for Claude Code, gives a good overview of basic concepts, workflows and best practices.
 - [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) — GitHub's agentic development environment where natural language goals are resolved into full PRs.
 - [OpenAI Codex in Agentic Mode](https://platform.openai.com/docs/guides/code) — Using OpenAI models to run multi-step coding pipelines.
 ---
