@@ -8,12 +8,16 @@ Focused on **practical adoption** for team leads bringing agentic practices to t
 
 ## Contents
 
+## Contents
+
 - [What Is Agentic Engineering?](#what-is-agentic-engineering)
 - [Team Adoption](#team-adoption)
 - [Code-Focused Agent Tools](#code-focused-agent-tools)
 - [Talks & Conferences](#talks--conferences)
+- [Practical Advice](#practical-advice)
 - [Case Studies](#case-studies)
-
+- [Standards](#standards)
+- [Contributing](#contributing)
 ---
 
 ## What Is Agentic Engineering?
@@ -56,6 +60,10 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 - [Agentic Coding: The Future of Software Development with Agents — Armin Ronacher](https://www.youtube.com/watch?v=nfOVgz_omlU) — 37-minute talk by the creator of Flask and Sentry on adopting Claude Code and agentic workflows in practice; packed with concrete tips teams can apply immediately.
 
+# Practical advice
+
+* [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/)
+
 ## Case Studies
 
 > Real teams, real outcomes — learn from those ahead of you.
@@ -66,7 +74,6 @@ Agentic Engineering is a software development approach where AI agents are orche
 ## Standards
 
 [agents.md](https://agents.md/) — An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
-
 
 [MCP — Model Context Protocol](https://modelcontextprotocol.io/) — An open standard for connecting AI models to external tools, data sources, and services. 
 
