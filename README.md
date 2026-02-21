@@ -75,4 +75,4 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 ## Contributing
 
-Contributions welcome! This list prioritizes practical, team-applicable resources over theoretical ones. When suggesting additions, please include a one-line description of why it is useful specifically to a team lead adopting agentic engineering.
+Contributions welcome! This list prioritizes practical, team-applicable resources over theoretical ones. When suggesting additions, please include a one-line description of why it is useful specifically to a team adopting agentic engineering.
