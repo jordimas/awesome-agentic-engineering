@@ -10,12 +10,13 @@ Focused on **practical adoption** for team leads bringing agentic practices to t
 
 ## Contents
 
+## Contents
+
 - [What Is Agentic Engineering?](#what-is-agentic-engineering)
 - [Team Adoption](#team-adoption)
 - [Code-Focused Agent Tools](#code-focused-agent-tools)
 - [Talks & Conferences](#talks--conferences)
-- [Practical Advice](#practical-advice)
-- [Case Studies](#case-studies)
+- [Case Studies and Practical Advice](#case-studies-and-practical-advice)
 - [Standards](#standards)
 - [Contributing](#contributing)
 ---
@@ -60,16 +61,14 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 - [Agentic Coding: The Future of Software Development with Agents — Armin Ronacher](https://www.youtube.com/watch?v=nfOVgz_omlU) — 37-minute talk by the creator of Flask and Sentry on adopting Claude Code and agentic workflows in practice; packed with concrete tips teams can apply immediately.
 
-# Practical advice
 
-* [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/)
-
-## Case Studies
+## Case Studies and Practical advice
 
 > Real teams, real outcomes — learn from those ahead of you.
 
-[**My LLM Coding Workflow Going into 2026** — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e). A practical guide to AI-assisted engineering that emphasizes specs-first planning, small iterations, strong context and model selection.
-
+- [**My LLM Coding Workflow Going into 2026** — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e). A practical guide to AI-assisted engineering that emphasizes specs-first planning, small iterations, strong context and model selection.
+- [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
+- [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/)
 
 ## Standards
 
