@@ -13,6 +13,7 @@ Focused on **practical adoption** for engineering teams adopting Agentic Enginee
 - [Code-Focused Agent Tools](#code-focused-agent-tools)
 - [Talks & Conferences](#talks--conferences)
 - [Case Studies and Practical Advice](#case-studies-and-practical-advice)
+- [Key Papers to Understand the Practice](#key-papers-to-understand-the-practice)
 - [Standards](#standards)
 - [Contributing](#contributing)
 ---
@@ -70,7 +71,9 @@ Agentic Engineering is a software development approach where AI agents are orche
 * [agents.md](https://agents.md/) — An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
 * [MCP — Model Context Protocol](https://modelcontextprotocol.io/) — An open standard for connecting AI models to external tools, data sources, and services. 
 
----
+## Key papers to understand the practice
+
+[GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/pdf/2602.15763) — Technical report for GLM-5, a coding-focused model bridging casual vibe coding and structured agentic software engineering through advanced reasoning and tool use.
 
 ## Contributing
 
