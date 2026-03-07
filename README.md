@@ -65,6 +65,7 @@ Agentic Engineering is a software development approach where AI agents are orche
 - [My LLM Coding Workflow Going into 2026 — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e). A practical guide to AI-assisted engineering that emphasizes specs-first planning, small iterations, strong context and model selection.
 - [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built). A deep dive into Claude Code's origins, architecture, and what it signals for AI-assisted software development.
 - [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/). OpenAI's practical guide to structuring and scaling engineering teams around AI-first workflows with Codex.
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code). A comprehensive collection of resources, tips, prompts, and examples for getting the most out of Claude Code — Anthropic's AI-driven command-line coding assistant.
 
 ## Standards
 
