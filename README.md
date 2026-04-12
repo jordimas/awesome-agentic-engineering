@@ -33,6 +33,8 @@ Agentic Engineering is a software development approach where AI agents are orche
 ---
 
 ## Code-Focused Agent Tools
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin (MIT) providing 9 SEO and Google Ads skills; connects Google Search Console, PageSpeed Insights, and Google Ads API for automated audits, keyword research, and content optimization. ![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat&logo=github&label=)
+
 
 ### Open Source — Model-Agnostic
 - [Aider](https://github.com/paul-gauthier/aider) — AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning. ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat&logo=github&label=)
