@@ -46,6 +46,7 @@ Agentic Engineering is a software development approach where AI agents are orche
 - [Cursor](https://www.cursor.com/) — IDE built for agentic coding workflows; inline agent with codebase-wide context and multi-model support.
 - [Claude Code](https://github.com/anthropics/claude-code) — Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models. ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat&logo=github&label=)
 - [Codex](https://github.com/openai/codex) — OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models. ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat&logo=github&label=)
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 ---
 
 
