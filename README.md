@@ -36,6 +36,7 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 ### Open Source — Model-Agnostic
 - [Aider](https://github.com/paul-gauthier/aider) — AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning. ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat&logo=github&label=)
+- [agenttrace](https://github.com/luoyuctl/agenttrace) — Local TUI for inspecting AI coding agent session cost, tokens, latency, and failures. ![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat&logo=github&label=)
 - [OpenCode](https://github.com/sst/opencode) — CLI coding agent supporting 75+ LLM providers including local models, with MCP integration. ![Stars](https://img.shields.io/github/stars/sst/opencode?style=flat&logo=github&label=)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access. ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat&logo=github&label=)
 - [Plandex](https://github.com/plandex-ai/plandex) — Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat&logo=github&label=)
