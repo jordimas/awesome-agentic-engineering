@@ -30,6 +30,7 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 - [Claude Code Documentation](https://code.claude.com/docs/) - Official documentation for Claude Code, gives a good overview of basic concepts, workflows and best practices.
 - [OpenAI Codex Quickstart](https://developers.openai.com/codex/quickstart) — A beginner-friendly guide to getting started with OpenAI Codex, covering setup, API integration, and your first code generation requests.
+- [Awesome Agentic Coding](https://github.com/Transcenda/awesome-agentic-coding) — A vendor-neutral adoption roadmap covering 38 practical techniques, from planning and verification to Skills, MCP, sandboxing, parallel agents, security, and cost controls.
 ---
 
 ## Code-Focused Agent Tools
