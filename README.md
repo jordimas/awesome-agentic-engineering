@@ -11,6 +11,7 @@ Focused on **practical adoption** for engineering teams adopting Agentic Enginee
 - [What Is Agentic Engineering?](#what-is-agentic-engineering)
 - [Team Adoption](#team-adoption)
 - [Code-Focused Agent Tools](#code-focused-agent-tools)
+- [Workflow Analytics and Observability](#workflow-analytics-and-observability)
 - [Talks & Conferences](#talks--conferences)
 - [Case Studies and Practical Advice](#case-studies-and-practical-advice)
 - [Key Papers to Understand the Practice](#key-papers-to-understand-the-practice)
@@ -47,6 +48,12 @@ Agentic Engineering is a software development approach where AI agents are orche
 - [Claude Code](https://github.com/anthropics/claude-code) — Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models. ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat&logo=github&label=)
 - [Codex](https://github.com/openai/codex) — OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models. ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat&logo=github&label=)
 ---
+
+## Workflow Analytics and Observability
+
+> Tools for understanding how agentic engineering work actually happens across sessions, tools, and costs.
+
+- [ax](https://github.com/Necmttn/ax) - Local telemetry graph for Claude Code, Codex, Cursor, OpenCode, and Pi sessions; useful for extracting repeatable workflows, tracking tool and skill use, and auditing agent spend. ![Stars](https://img.shields.io/github/stars/Necmttn/ax?style=flat&logo=github&label=)
 
 
 ## Talks & Conferences
