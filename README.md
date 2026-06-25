@@ -15,6 +15,9 @@ Focused on **practical adoption** for engineering teams adopting Agentic Enginee
 - [Case Studies and Practical Advice](#case-studies-and-practical-advice)
 - [Key Papers to Understand the Practice](#key-papers-to-understand-the-practice)
 - [Standards](#standards)
+- [Spec-Driven Development](#spec-driven-development)
+- [Multi-Agent Frameworks](#multi-agent-frameworks)
+- [Browser & Computer Use Agents](#browser--computer-use-agents)
 - [Contributing](#contributing)
 ---
 
@@ -36,9 +39,13 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 ### Open Source — Model-Agnostic
 - [Aider](https://github.com/paul-gauthier/aider) — AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning. ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat&logo=github&label=)
+- [Cline](https://github.com/cline/cline) — Autonomous coding agent for VS Code that can create/edit files, run commands, and use the browser with human-in-the-loop approval at each step. ![Stars](https://img.shields.io/github/stars/cline/cline?style=flat&logo=github&label=)
+- [Continue](https://github.com/continuedev/continue) — Open-source IDE extension (VS Code, JetBrains) for building, sharing, and running custom AI code assistants with any model. ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat&logo=github&label=)
+- [Goose](https://github.com/block/goose) — Block's open-source, on-machine AI agent that automates engineering tasks end-to-end with MCP-based tool extensions. ![Stars](https://img.shields.io/github/stars/block/goose?style=flat&logo=github&label=)
 - [OpenCode](https://github.com/sst/opencode) — CLI coding agent supporting 75+ LLM providers including local models, with MCP integration. ![Stars](https://img.shields.io/github/stars/sst/opencode?style=flat&logo=github&label=)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access. ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat&logo=github&label=)
 - [Plandex](https://github.com/plandex-ai/plandex) — Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat&logo=github&label=)
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code) — Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks. ![Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=flat&logo=github&label=)
 
 ### Commercial offering
 
@@ -70,7 +77,34 @@ Agentic Engineering is a software development approach where AI agents are orche
 ## Standards
 
 * [agents.md](https://agents.md/) — An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
-* [MCP — Model Context Protocol](https://modelcontextprotocol.io/) — An open standard for connecting AI models to external tools, data sources, and services. 
+* [MCP — Model Context Protocol](https://modelcontextprotocol.io/) — An open standard for connecting AI models to external tools, data sources, and services.
+* [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) — Official reference implementations of MCP servers; the canonical starting point for teams building agent integrations. ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat&logo=github&label=)
+* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — Community-curated catalog of MCP server implementations for hooking agents into databases, APIs, browsers, and more. ![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat&logo=github&label=)
+
+## Spec-Driven Development
+
+> Frameworks for turning specs and requirements into working software via agents.
+
+* [Spec Kit](https://github.com/github/spec-kit) — GitHub's toolkit for spec-driven development, helping teams define what to build before letting agents implement it. ![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat&logo=github&label=)
+* [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) — Universal AI agent framework for agile, agentic-driven planning and execution across software, creative, and business domains. ![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat&logo=github&label=)
+
+## Multi-Agent Frameworks
+
+> Building blocks for orchestrating multiple agents with roles, memory, and tool access.
+
+* [LangChain](https://github.com/langchain-ai/langchain) — The most widely used framework for building LLM-powered applications, including multi-step agent workflows. ![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat&logo=github&label=)
+* [Microsoft AutoGen](https://github.com/microsoft/autogen) — Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks. ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat&logo=github&label=)
+* [CrewAI](https://github.com/crewAIInc/crewAI) — Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew. ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&logo=github&label=)
+* [Dify](https://github.com/langgenius/dify) — Open-source platform for building LLM apps with agentic workflows, RAG, and observability — useful as the orchestration layer next to coding agents. ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&logo=github&label=)
+
+## Browser & Computer Use Agents
+
+> Agents that drive browsers and desktops — useful for E2E testing, scraping, and verifying agent-built software.
+
+* [Browser Use](https://github.com/browser-use/browser-use) — Make any LLM control a real browser; widely used for agentic E2E testing and automating web flows. ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat&logo=github&label=)
+* [Stagehand](https://github.com/browserbase/stagehand) — Production-ready AI browser automation framework with natural-language actions on top of Playwright. ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat&logo=github&label=)
+* [Playwright](https://github.com/microsoft/playwright) — Microsoft's cross-browser automation library; the de-facto substrate for agent-driven browser testing and MCP browser servers. ![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat&logo=github&label=)
+* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) — Lets LLMs run code locally with full system access; a foundational pattern for desktop-level coding agents. ![Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat&logo=github&label=)
 
 ## Key papers to understand the practice
 
