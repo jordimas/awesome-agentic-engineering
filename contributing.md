@@ -16,6 +16,8 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Quality bar
 
+**This list aims to be a HIGH-LEVEL OVERVIEW of agentic engineering, NOT an exhaustive catalog.** We collect only SIGNIFICANT, high-impact resources that genuinely shape how teams work. Small, niche, or experimental entries clutter the map and defeat the purpose. When in doubt, leave it out.
+
 - Resource must be actively maintained, accessible, and not behind a paywall.
 - GitHub repositories must have more than 10,000 stars.
 - Avoid duplicates and superseded tools.
