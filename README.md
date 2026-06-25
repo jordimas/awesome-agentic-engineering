@@ -33,6 +33,9 @@ Agentic Engineering is a software development approach where AI agents are orche
 
 - [Claude Code Documentation](https://code.claude.com/docs/) - Official documentation for Claude Code, gives a good overview of basic concepts, workflows and best practices.
 - [OpenAI Codex Quickstart](https://developers.openai.com/codex/quickstart) — A beginner-friendly guide to getting started with OpenAI Codex, covering setup, API integration, and your first code generation requests.
+- [Anthropic — Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) — First-party guidance on getting the most out of Claude Code: prompting, tooling, and team-level workflows.
+- [OpenAI — A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — OpenAI's free 30+ page playbook covering when to build an agent, design foundations, guardrails, and rollout.
+- [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) — Widely cited set of principles for building reliable, production-grade LLM agents — the "12-factor app" of agentic systems. ![Stars](https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat&logo=github&label=)
 ---
 
 ## Code-Focused Agent Tools
@@ -73,6 +76,7 @@ Agentic Engineering is a software development approach where AI agents are orche
 - [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built). A deep dive into Claude Code's origins, architecture, and what it signals for AI-assisted software development.
 - [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/). OpenAI's practical guide to structuring and scaling engineering teams around AI-first workflows with Codex.
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code). A comprehensive collection of resources, tips, prompts, and examples for getting the most out of Claude Code — Anthropic's AI-driven command-line coding assistant.
+- [Anthropic — Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents). Canonical Anthropic engineering essay laying out the workflow and agent patterns teams should know before adopting agentic systems in production.
 
 ## Standards
 
@@ -93,6 +97,7 @@ Agentic Engineering is a software development approach where AI agents are orche
 > Building blocks for orchestrating multiple agents with roles, memory, and tool access.
 
 * [LangChain](https://github.com/langchain-ai/langchain) — The most widely used framework for building LLM-powered applications, including multi-step agent workflows. ![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat&logo=github&label=)
+* [LangGraph](https://github.com/langchain-ai/langgraph) — Graph-based orchestration framework for building stateful, controllable multi-agent systems with explicit checkpoints and recovery. ![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat&logo=github&label=)
 * [Microsoft AutoGen](https://github.com/microsoft/autogen) — Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks. ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat&logo=github&label=)
 * [CrewAI](https://github.com/crewAIInc/crewAI) — Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew. ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&logo=github&label=)
 * [Dify](https://github.com/langgenius/dify) — Open-source platform for building LLM apps with agentic workflows, RAG, and observability — useful as the orchestration layer next to coding agents. ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&logo=github&label=)
