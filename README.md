@@ -14,7 +14,7 @@
 - [Standards](#standards)
 - [Spec-Driven Development](#spec-driven-development)
 - [Multi-Agent Frameworks](#multi-agent-frameworks)
-- [Browser & Computer Use Agents](#browser--computer-use-agents)
+- [Browser, Web & Computer Use Agents](#browser-web--computer-use-agents)
 - [Key Papers to Understand the Practice](#key-papers-to-understand-the-practice)
 
 ---
@@ -100,14 +100,15 @@ Agentic Engineering is a software development approach where AI agents are orche
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew. ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&logo=github&label=)
 - [Dify](https://github.com/langgenius/dify) - Open-source platform for building LLM apps with agentic workflows, RAG, and observability; useful as the orchestration layer next to coding agents. ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&logo=github&label=)
 
-## Browser & Computer Use Agents
+## Browser, Web & Computer Use Agents
 
-> Agents that drive browsers and desktops; useful for E2E testing, scraping, and verifying agent-built software.
+> Agents that drive browsers, desktops, or the live web; useful for E2E testing, scraping, researching and verifying agent-built software.
 
 - [Browser Use](https://github.com/browser-use/browser-use) - Make any LLM control a real browser; widely used for agentic E2E testing and automating web flows. ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat&logo=github&label=)
 - [Stagehand](https://github.com/browserbase/stagehand) - Production-ready AI browser automation framework with natural-language actions on top of Playwright. ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat&logo=github&label=)
 - [Playwright](https://github.com/microsoft/playwright) - Microsoft's cross-browser automation library; the de-facto substrate for agent-driven browser testing and MCP browser servers. ![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat&logo=github&label=)
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Lets LLMs run code locally with full system access; a foundational pattern for desktop-level coding agents. ![Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat&logo=github&label=)
+- [Firecrawl](https://github.com/firecrawl/firecrawl) - Open-source web context API for agents; searches, scrapes, crawls, and converts live web content into clean Markdown or structured data, with MCP support for agent workflows. ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat&logo=github&label=)
 
 ## Key Papers to Understand the Practice
 
