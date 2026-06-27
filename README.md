@@ -6,7 +6,6 @@
 
 ## Contents
 
-- [What Is Agentic Engineering](#what-is-agentic-engineering)
 - [Team Adoption](#team-adoption)
 - [Code-Focused Agent Tools](#code-focused-agent-tools)
 - [Talks & Conferences](#talks--conferences)
@@ -16,12 +15,6 @@
 - [Multi-Agent Frameworks](#multi-agent-frameworks)
 - [Browser, Web & Computer Use Agents](#browser-web--computer-use-agents)
 - [Key Papers to Understand the Practice](#key-papers-to-understand-the-practice)
-
----
-
-## What Is Agentic Engineering
-
-Agentic Engineering is a software development approach where AI agents are orchestrated to autonomously plan, write, test, debug, and evolve software based on human-defined goals and constraints. Engineers focus on setting objectives, defining constraints, and reviewing outcomes instead of coding line by line.
 
 ---
 
@@ -50,7 +43,7 @@ Agentic Engineering is a software development approach where AI agents are orche
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat&logo=github&label=)
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) - Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks. ![Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=flat&logo=github&label=)
 
-### Commercial offering
+### Commercial Offering
 
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's terminal agent; optimized for Gemini models with tool use and MCP support. ![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat&logo=github&label=)
 - [Cursor](https://www.cursor.com/) - IDE built for agentic coding workflows; inline agent with codebase-wide context and multi-model support.
