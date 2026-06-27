@@ -22,11 +22,11 @@
 
 > Practical guidance for engineering teams.
 
-- [Claude Code Documentation](https://code.claude.com/docs/) - Official documentation for Claude Code, gives a good overview of basic concepts, workflows and best practices.
-- [OpenAI Codex Quickstart](https://developers.openai.com/codex/quickstart) - A beginner-friendly guide to getting started with OpenAI Codex, covering setup, API integration, and your first code generation requests.
-- [Anthropic — Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - First-party guidance on getting the most out of Claude Code: prompting, tooling, and team-level workflows.
-- [OpenAI — A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - OpenAI's free 30+ page playbook covering when to build an agent, design foundations, guardrails, and rollout.
-- [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - Widely cited set of principles for building reliable, production-grade LLM agents; the "12-factor app" of agentic systems. ![Stars](https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat&logo=github&label=)
+- [Claude Code Documentation](https://code.claude.com/docs/) - Anthropic's CLI agent for working on local codebases.
+- [OpenAI Codex Quickstart](https://developers.openai.com/codex/quickstart) - OpenAI's coding agent: setup, API integration, and first code generation requests.
+- [Anthropic — Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Prompting, tooling, and team-level workflows for Claude Code.
+- [OpenAI — A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - When to build an agent, design foundations, guardrails, and rollout.
+- [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - Principles for building reliable, production-grade LLM agents. ![Stars](https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat&logo=github&label=)
 
 ---
 
@@ -56,25 +56,25 @@
 
 > Video content worth watching with your team.
 
-- [The Future of Coding is Agents — Andrej Karpathy (YC)](https://www.youtube.com/watch?v=fqVLjtvWgq8) - Landmark talk on the trajectory from coding assistants to autonomous agents.
-- [Agentic Coding: The Future of Software Development with Agents — Armin Ronacher](https://www.youtube.com/watch?v=nfOVgz_omlU) - 37-minute talk by the creator of Flask and Sentry on adopting Claude Code and agentic workflows in practice; packed with concrete tips teams can apply immediately.
+- [The Future of Coding is Agents — Andrej Karpathy (YC)](https://www.youtube.com/watch?v=fqVLjtvWgq8) - The trajectory from coding assistants to autonomous agents.
+- [Agentic Coding: The Future of Software Development with Agents — Armin Ronacher](https://www.youtube.com/watch?v=nfOVgz_omlU) - Adopting Claude Code and agentic workflows in practice, by the creator of Flask and Sentry.
 
 ## Case Studies and Practical Advice
 
 > Real teams, real outcomes; learn from those ahead of you.
 
-- [My LLM Coding Workflow Going into 2026 — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e) - A practical guide to AI-assisted engineering that emphasizes specs-first planning, small iterations, strong context and model selection.
-- [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built) - A deep dive into Claude Code's origins, architecture, and what it signals for AI-assisted software development.
-- [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/) - OpenAI's practical guide to structuring and scaling engineering teams around AI-first workflows with Codex.
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - A comprehensive collection of resources, tips, prompts, and examples for getting the most out of Claude Code; Anthropic's AI-driven command-line coding assistant.
-- [Anthropic — Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Canonical Anthropic engineering essay laying out the workflow and agent patterns teams should know before adopting agentic systems in production.
+- [My LLM Coding Workflow Going into 2026 — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e) - Specs-first planning, small iterations, and strong context and model selection in AI-assisted engineering.
+- [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built) - Claude Code's origins, architecture, and signals for AI-assisted software development.
+- [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/) - Structuring and scaling engineering teams around AI-first workflows with Codex.
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Resources, tips, prompts, and examples for Claude Code.
+- [Anthropic — Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Workflow and agent patterns for production agentic systems.
 
 ## Standards
 
 - [agents.md](https://agents.md/) - An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
 - [MCP — Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools, data sources, and services.
-- [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) - Official reference implementations of MCP servers; the canonical starting point for teams building agent integrations. ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat&logo=github&label=)
-- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Community-curated catalog of MCP server implementations for hooking agents into databases, APIs, browsers, and more. ![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat&logo=github&label=)
+- [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) - Reference implementations of MCP servers. ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat&logo=github&label=)
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Catalog of MCP server implementations for databases, APIs, browsers, and more. ![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat&logo=github&label=)
 
 ## Spec-Driven Development
 
