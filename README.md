@@ -14,6 +14,7 @@
 - [Spec-Driven Development](#spec-driven-development)
 - [Multi-Agent Frameworks](#multi-agent-frameworks)
 - [Browser, Web & Computer Use Agents](#browser-web--computer-use-agents)
+- [Debugging & Runtime Verification](#debugging--runtime-verification)
 - [Key Papers to Understand the Practice](#key-papers-to-understand-the-practice)
 
 ---
@@ -102,6 +103,12 @@
 - [Playwright](https://github.com/microsoft/playwright) - Microsoft's cross-browser automation library; the de-facto substrate for agent-driven browser testing and MCP browser servers. ![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat&logo=github&label=)
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Lets LLMs run code locally with full system access; a foundational pattern for desktop-level coding agents. ![Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat&logo=github&label=)
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Open-source web context API for agents; searches, scrapes, crawls, and converts live web content into clean Markdown or structured data, with MCP support for agent workflows. ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat&logo=github&label=)
+
+## Debugging & Runtime Verification
+
+> Tools that feed coding agents real runtime context to catch and fix bugs in testing or prod.
+
+- [Multiplayer](https://github.com/multiplayer-app/multiplayer) — Self-hostable debugging agent that connects your favorite coding agents to production runtime data, feeding them full-stack, unsampled session data to catch and fix bugs automatically. [![Stars](https://img.shields.io/github/stars/multiplayer-app/multiplayer?style=flat&logo=github&label=)](https://img.shields.io/github/stars/multiplayer-app/multiplayer?style=flat&logo=github&label=)
 
 ## Key Papers to Understand the Practice
 
