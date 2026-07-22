@@ -106,6 +106,7 @@
 ## Key Papers to Understand the Practice
 
 - [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/pdf/2602.15763) - Technical report for GLM-5, a coding-focused model bridging casual vibe coding and structured agentic software engineering through advanced reasoning and tool use.
+- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) - Six design principles for autonomous research, with Prompt Economy as the cornerstone. 18 reusable roles cover 10+ disciplines; the system sustained a 30-day unattended run. [Code](https://github.com/AutoResearch-Factory/Agon)
 
 ## Contributing
 
