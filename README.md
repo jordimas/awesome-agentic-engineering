@@ -102,6 +102,7 @@
 - [Playwright](https://github.com/microsoft/playwright) - Microsoft's cross-browser automation library; the de-facto substrate for agent-driven browser testing and MCP browser servers. ![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat&logo=github&label=)
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Lets LLMs run code locally with full system access; a foundational pattern for desktop-level coding agents. ![Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat&logo=github&label=)
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Open-source web context API for agents; searches, scrapes, crawls, and converts live web content into clean Markdown or structured data, with MCP support for agent workflows. ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat&logo=github&label=)
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Live-web benchmark for validating browser and computer-use agents on 283 everyday tasks across 163 websites, with request interception and multi-layer execution evidence; [paper](https://arxiv.org/abs/2604.08523) · [project](https://claw-bench.com).
 
 ## Key Papers to Understand the Practice
 
