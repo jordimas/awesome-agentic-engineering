@@ -91,6 +91,7 @@
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Graph-based orchestration framework for building stateful, controllable multi-agent systems with explicit checkpoints and recovery. ![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat&logo=github&label=)
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) - Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks. ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat&logo=github&label=)
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew. ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&logo=github&label=)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Dify](https://github.com/langgenius/dify) - Open-source platform for building LLM apps with agentic workflows, RAG, and observability; useful as the orchestration layer next to coding agents. ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&logo=github&label=)
 
 ## Browser, Web & Computer Use Agents
