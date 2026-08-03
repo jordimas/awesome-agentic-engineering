@@ -92,6 +92,7 @@
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) - Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks. ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat&logo=github&label=)
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew. ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&logo=github&label=)
 - [Dify](https://github.com/langgenius/dify) - Open-source platform for building LLM apps with agentic workflows, RAG, and observability; useful as the orchestration layer next to coding agents. ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&logo=github&label=)
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory, a web UI, and chat channels; agents collaborate and build their own tools. ![Stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=flat&logo=github&label=)
 
 ## Browser, Web & Computer Use Agents
 
