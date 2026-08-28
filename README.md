@@ -27,6 +27,7 @@
 - [Anthropic — Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Prompting, tooling, and team-level workflows for Claude Code.
 - [OpenAI — A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - When to build an agent, design foundations, guardrails, and rollout.
 - [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - Principles for building reliable, production-grade LLM agents. ![Stars](https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat&logo=github&label=)
+- [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Source-backed, agent-first field guide for operating and extending the DeepSeek Harness runtime, with reproducible failure runbooks, architecture maps, interactive diagnostics, and multilingual coverage.
 
 ---
 
