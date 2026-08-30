@@ -24,6 +24,7 @@
 
 - [Claude Code Documentation](https://code.claude.com/docs/) - Anthropic's CLI agent for working on local codebases.
 - [OpenAI Codex Quickstart](https://developers.openai.com/codex/quickstart) - OpenAI's coding agent: setup, API integration, and first code generation requests.
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Independent Windows companion that surfaces Codex quota, reset timing, and local usage forecasts so teams can plan agent runs around rate limits.
 - [Anthropic — Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Prompting, tooling, and team-level workflows for Claude Code.
 - [OpenAI — A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - When to build an agent, design foundations, guardrails, and rollout.
 - [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - Principles for building reliable, production-grade LLM agents. ![Stars](https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat&logo=github&label=)
