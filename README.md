@@ -42,6 +42,7 @@
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access. ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat&logo=github&label=)
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat&logo=github&label=)
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) - Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks. ![Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=flat&logo=github&label=)
+- [chamnan](https://github.com/ArcticFox2029/chamnan) - Keeps a repository's engineering context on disk — an architecture index, an impact map, session handoffs and recorded decisions, as markdown committed beside the code — so an agent greps a map instead of rediscovering the codebase each session. Writes the context file whichever agent reads; repository-local, no network, Python standard library only.
 
 ### Commercial Offering
 
