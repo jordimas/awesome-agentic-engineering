@@ -49,6 +49,7 @@
 - [Cursor](https://www.cursor.com/) - IDE built for agentic coding workflows; inline agent with codebase-wide context and multi-model support.
 - [Claude Code](https://github.com/anthropics/claude-code) - Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models. ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat&logo=github&label=)
 - [Codex](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models. ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat&logo=github&label=)
+- [ContextStream](https://contextstream.io) - Shared project context (hosted MCP at https://mcp.contextstream.io/mcp) so Cursor, Claude Code, Codex, and Grok stay aligned across teammates and sessions. OSS: https://github.com/contextstream/mcp-server
 
 ---
 
