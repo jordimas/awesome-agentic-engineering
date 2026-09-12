@@ -87,6 +87,7 @@
 
 > Building blocks for orchestrating multiple agents with roles, memory, and tool access.
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [LangChain](https://github.com/langchain-ai/langchain) - The most widely used framework for building LLM-powered applications, including multi-step agent workflows. ![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat&logo=github&label=)
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Graph-based orchestration framework for building stateful, controllable multi-agent systems with explicit checkpoints and recovery. ![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat&logo=github&label=)
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) - Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks. ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat&logo=github&label=)
