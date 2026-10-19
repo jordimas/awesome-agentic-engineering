@@ -82,6 +82,7 @@
 
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's toolkit for spec-driven development, helping teams define what to build before letting agents implement it. ![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat&logo=github&label=)
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Universal AI agent framework for agile, agentic-driven planning and execution across software, creative, and business domains. ![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat&logo=github&label=)
+- [Remakecraft](https://github.com/remakecraft/remakecraft) - Claude Code plugin that rewrites an app from its observable behaviour in a hook-enforced clean room: spec from screenshots and docs, tests written first with ~30% sealed from the builders, parallel builds in worktrees, and a parity score that includes the sealed tests. ![Stars](https://img.shields.io/github/stars/remakecraft/remakecraft?style=flat&logo=github&label=)
 
 ## Multi-Agent Frameworks
 
