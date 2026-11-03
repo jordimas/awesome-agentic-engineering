@@ -41,6 +41,7 @@
 - [OpenCode](https://github.com/sst/opencode) - CLI coding agent supporting 75+ LLM providers including local models, with MCP integration. ![Stars](https://img.shields.io/github/stars/sst/opencode?style=flat&logo=github&label=)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access. ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat&logo=github&label=)
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat&logo=github&label=)
+- [Ponder](https://github.com/Quinnod345/ponder) - Zero-dependency CLI and append-only review ledger for Claude Code, Codex, Cursor, and Gemini CLI that enforces 100% unit coverage and four-role deliberation convergence before an agent can complete a review. ![Stars](https://img.shields.io/github/stars/Quinnod345/ponder?style=flat&logo=github&label=)
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) - Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks. ![Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=flat&logo=github&label=)
 
 ### Commercial Offering
