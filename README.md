@@ -82,6 +82,7 @@
 
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's toolkit for spec-driven development, helping teams define what to build before letting agents implement it. ![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat&logo=github&label=)
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Universal AI agent framework for agile, agentic-driven planning and execution across software, creative, and business domains. ![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat&logo=github&label=)
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Spec-driven workflow for teams using coding agents: requirements and formal properties are stated before implementation and checked, with review evidence recorded before delivery. ![Stars](https://img.shields.io/github/stars/DeadInternetStudios/100x-engineer-skill?style=flat&logo=github&label=)
 
 ## Multi-Agent Frameworks
 
